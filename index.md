@@ -10,4 +10,4 @@
 
 ## Flutter
 
-- [Bitcoin Trainer](btc-trainer/html/index.html)
+- [Bitcoin Trainer](btc_trainer/html/index.html)
